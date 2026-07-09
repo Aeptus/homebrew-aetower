@@ -3,7 +3,7 @@
 Install Aetower from the official Homebrew tap:
 
 ```sh
-brew tap Aeptus/aetower
+brew tap aeptus/aetower
 brew install --cask aetower
 ```
 

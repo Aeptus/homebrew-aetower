@@ -1,6 +1,6 @@
 cask "aetower" do
-  version "0.8.1,801"
-  sha256 "46d623a1a64955043bdbf38afd04c73702ec589be18e71a11d55a5c13fb3b940"
+  version "0.9.0,900"
+  sha256 "6f0369718d955425e5ba01ebc36f7bbf69ee78c78c565be5f491e049a8734bc7"
 
   url "https://aetower.dev/releases/Aetower-#{version.csv.first}-#{version.csv.second}.zip"
   name "Aetower"
